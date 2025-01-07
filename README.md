@@ -22,7 +22,7 @@
 #### 🙈 개발 환경
 	- PC : LG Gram Pro 40.6cm
 	- Operating System : Kali Linux
-	- Safari 18.0.1 (Jupyter Notebook)
+	- Chrome 131.0.6778.204 (Jupyter Notebook)
 	- Library : requirements.txt
 
 
