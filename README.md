@@ -1,4 +1,4 @@
-### 🐭 머신러닝 교과서
+### 머신러닝 교과서
 
 ---
 <img src="https://image.yes24.com/goods/98809693/XL.jpg" alt="Book" style="width: 200px; display: block; margin-left: auto; margin-right: auto;">
